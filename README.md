@@ -20,3 +20,7 @@ To run this implementation of the Occupancy Grid Mapping you need to:
     - use the launch file slam_gmapping_pr2.launch
   - Install AMCL package
     - use the amcl_diff.launch
+    
+# Authors
+- Diogo Morgado
+- Luis Lopes
